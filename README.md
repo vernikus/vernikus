@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Jonathan Enriquez (michingon)</h1>
 <h3 align="center">Soy un desarrollador frontend jr, en constante búsqueda de mejorar mis skills</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
